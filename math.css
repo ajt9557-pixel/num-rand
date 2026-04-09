@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(33, 47, 47);
+}
+#btn{
+    color: darkblue;
+    background-color: black;
+}
+#btn:hover{
+    background-color: hsl(0, 0%, 20%);
+}
+.labels{
+    font-size: 10em;
+    
+}
+
